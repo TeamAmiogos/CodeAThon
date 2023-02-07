@@ -1,2 +1,2 @@
 # CodeAThon
-This repo is created for CodeAThon challenge 
+This repo is created for CodeAThon challenge. 
