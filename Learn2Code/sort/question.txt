@@ -1,0 +1,14 @@
+Print Sorted Elements List
+
+input1: List of integers
+input2: Number of integers
+
+Constrains:
+    -n < input1 < n 
+    input2 >= 1
+    
+ 
+Example 1:
+input1: 3 4 -1 2 5
+input2: 5
+output: -1 2 3 4 5

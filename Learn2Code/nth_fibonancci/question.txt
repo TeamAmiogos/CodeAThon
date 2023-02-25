@@ -1,0 +1,19 @@
+Print the nth element in the Fibonancci Series 
+
+input: Positive Integer 
+
+Constrains:
+    input >= 1
+    
+ 
+Example 1:
+input: 3
+output: 2
+
+Example 2:
+input: 5
+output: 5
+
+Example 3:
+input: 10
+output: 55
